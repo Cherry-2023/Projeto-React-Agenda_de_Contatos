@@ -1,0 +1,39 @@
+{
+  "contatos": [
+    {
+      "id": 1,
+      "name": "Juana López",
+      "phone": "(11) 98584-8954",
+      "email": "juanabonett@hotmail.com",
+      "address": "Rua Salvador 445, Manaus"
+    },
+    {
+      "id": 2,
+      "name": "Lucas Rolan",
+      "phone": "(11) 9856-2367",
+      "email": "lucasleandro@outlook.com",
+      "address": "Rua 25 de Maio, Salvador"
+    },
+    {
+      "id": 7,
+      "name": "Jose Rodrigues",
+      "phone": "(11) 96721-5678",
+      "email": "jose34@gmail.com",
+      "address": "calle 1678 caraas"
+    },
+    {
+      "id": 8,
+      "name": "Maria gutierrez",
+      "phone": "(10) 96458-0012",
+      "email": "jose@gmail.com",
+      "address": "sdfsdfsdfasfdafadf"
+    },
+    {
+      "id": 10,
+      "name": "Ana martinez",
+      "phone": "(11) 95623-8945",
+      "email": "ana@gmail.com",
+      "address": "asdadafadcac"
+    }
+  ]
+}
