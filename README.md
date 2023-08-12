@@ -4,7 +4,7 @@ Este é o Projeto do Módulo: React do curso Programador Full Stack da TOTTI.
 
 # Descrição do Projeto
 
-A agenda de contatos fue desenvolvida em React, esta biblioteca muito poderosa para construir interfaces de usuario, a interação com API REST local de JSON-SERVER, foi com Axios que é um cliente http baseado promesas em ou que permite aproveitar o assync e await de Javascript para obter um codigo mais assincrono e legivel.
+A agenda de contatos fue desenvolvida em React, esta biblioteca muito poderosa para construir interfaces de usuario. A interação com API REST local de JSON-SERVER, foi com Axios que é um cliente http baseado em promesas que permite aproveitar o assync e await de Javascript para obter um codigo mais assincrono e legivel.
 
 # Funcionalidades do Projeto
 
