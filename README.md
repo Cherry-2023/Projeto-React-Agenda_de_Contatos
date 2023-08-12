@@ -26,25 +26,25 @@ Para clonar e executar este projeto em seu computador, você precisará do Git, 
 Antes de continuar não esqueça executá-la primeiro!
 Feito esses passos, por favor faz o siguiente:
 
-1.) Primeramente, inicie a conexão en remoto com seu conta em github.com
-2.) Abra git em um directorio de seu computador.
-3.) Inicie git:
+1 Primeramente, inicie a conexão en remoto com seu conta em github.com
+2 Abra git em um directorio de seu computador.
+3 Inicie git:
 > git init
-4.) Clone esse repositório com:
+4 Clone esse repositório com:
 > git clone https://github.com/Cherry-2023/Projeto-React-Cherry.git
-5.) Entre no repositório com:
+5 Entre no repositório com:
 >  cd Projeto-React-Cherry
-6.) Instale as dependências com:
+6 Instale as dependências com:
 > npm install
-7.) Sim não tem instalado, por favor instale JSON SERVER:
+7 Sim não tem instalado, por favor instale JSON SERVER:
 > npm install -g json-server
-8.) Execute o API Fake do projeto com:
+8 Execute o API Fake do projeto com:
 > npm run server
-9.) Agora, minimize a tela de git
-10.) Abra um Terminal do windows pulsando a tecla MAYUS + Botão dereito do mouse e escolher "Abrir uma tela de PowerShell aqui"
-11.) Execute o programa no diretorio do projeto com:
+9 Agora, minimize a tela de git
+10 Abra um Terminal do windows pulsando a tecla MAYUS + Botão dereito do mouse e escolher "Abrir uma tela de PowerShell aqui"
+11 Execute o programa no diretorio do projeto com:
 > npm start
-12.) Feito isso, você já poderá acessar o projeto pelo link que aparecerá no terminal! (algo como http://192.168.100.7:3000/ ou http://localhost:3000/)
+12 Feito isso, você já poderá acessar o projeto pelo link que aparecerá no terminal! (algo como http://192.168.100.7:3000/ ou http://localhost:3000/)
 
 # OBSERVACÃO
 
