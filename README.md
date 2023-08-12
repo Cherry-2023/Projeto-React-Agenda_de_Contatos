@@ -26,6 +26,18 @@ Para clonar e executar este projeto em seu computador, você precisará do Git, 
 Antes de continuar não esqueça executá-la primeiro!
 Feito esses passos, por favor faz o siguiente:
 
+1: Primeramente, inicie a conexão en remoto com seu conta em github.com
+
+2: Abra git em um directorio de seu computador.
+
+3: Inicie git:
+> git init
+
+Funcionalidade 5: Realizar solicitudes DELETE para remover datos de contato
+
+Funcionalidade 6: Realizar pesquisas de contatos pelo nome.
+
+
 1 Primeramente, inicie a conexão en remoto com seu conta em github.com
 2 Abra git em um directorio de seu computador.
 3 Inicie git:
