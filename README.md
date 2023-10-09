@@ -52,4 +52,4 @@ O Json-server e o programa, ¡NÃO podem ser executados no mesmo Port localhost:
 
 # Desenvolvedor
 
-Aluno Cherry Machado, TTOTI, turma 31. Todos os dereitos reservados. 2003.
+Aluno Cherry Machado, TTOTI, turma 31. Todos os dereitos reservados. 2023.
