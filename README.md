@@ -1,4 +1,4 @@
-# Projeto-React-Cherry
+# Projeto-React-Agenda_de_Contatos
 
 Este é o Projeto do Módulo: React do curso Programador Full Stack da TOTTI.
 
