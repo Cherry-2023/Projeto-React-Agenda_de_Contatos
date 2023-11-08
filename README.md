@@ -31,7 +31,7 @@ Feito esses passos, por favor faz o siguiente:
 3) Inicie git:
 > git init
 4) Clone esse repositório com:
-> git clone https://github.com/Cherry-2023/Projeto-React-Cherry.git
+> git clone https://github.com/Cherry-2023/Projeto-React-Agenda_de_Contatos.git
 5) Entre no repositório com:
 >  cd Projeto-React-Cherry
 6) Instale as dependências com:
